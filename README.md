@@ -17,6 +17,7 @@
 To run the QR code generator, follow these steps:
 
 First type 'cd' then rag the downloaded file to your Visual  studio codee editor's console to get the path of file directly
+⚠ You will havr to install node packages by the command 'node i inquirer qr-image' 
 
 1. Make sure you have Node.js installed on your machine.
 
